@@ -1,0 +1,7 @@
+flask==3.1.2
+requests==2.32.5
+google-cloud-bigquery==3.40.0
+google-cloud-aiplatform==1.135.0
+google-api-python-client==2.165.0
+google-auth==2.48.0
+gunicorn==23.0.0

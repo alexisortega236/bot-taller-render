@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+render-bot-service-key.json
+*.json
+.DS_Store
